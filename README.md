@@ -8,10 +8,6 @@
 
 This repository is a template for your team's repository.
 
-## assignment
-
-All work for this assignment should be in the `assignment` directory.  You will work in the `.Rmd` notebook, and commit your rendered output files (`.md` and associated files) in the `assignment` directory as well.
-
 ## Special files
 
 All team repositories will also include most of the special files found here:
